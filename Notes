@@ -1,0 +1,20 @@
+Technologies and tools used
+Hibernate 5.3.7.Final
+IDE - Eclipse Noen
+Maven 3.5.3
+JavaSE 1.8
+MySQL - 8.0.13
+Let's start developing step by step Hibernate application using Maven as project management and build tool.
+Development Steps
+Create a Simple Maven Project
+Project Directory Structure
+Add jar Dependencies to pom.xml
+Creating the JPA Entity Class(Persistent class)
+Create a Hibernate configuration file - Java Configuration
+Create StudentDao Class - INSERT, UPDATE, SELECT and DELETE HQL operations
+Create the Main class and Run an Application
+
+
+
+
+https://www.javaguides.net/2019/10/hibernate-query-language-tutorial.html
